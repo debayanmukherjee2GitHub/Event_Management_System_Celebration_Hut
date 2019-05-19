@@ -1,0 +1,21 @@
+.option {
+    width: 100px;
+    height: 20px;
+    background: #7575FF;
+    -webkit-transition: width 0.5s, height 0.5s, -webkit-transform 0.5s; 
+    transition: width 0.5s, height 0.5s, transform 0.5s;
+}
+
+.option:hover {
+    width: 120px;
+    height: 20px;
+    -webkit-transform: zoom(15%);
+    transform: zoom(15%);
+}
+
+.option a, u{
+	text-decoration: none !important;
+	color: #ffffff !important;
+}
+
+

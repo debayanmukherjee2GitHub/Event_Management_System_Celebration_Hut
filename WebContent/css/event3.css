@@ -1,0 +1,19 @@
+div.background3 {
+	background: url(images/partyThumb2.JPG) no-repeat;
+    border: 2px solid white;
+    width: 700px;
+    height: 200px;
+    
+}
+
+div.transbox3 {
+    margin: 2px;
+    background-color: #ffffff;
+    border: 2px;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+
+div.transbox3 p {
+    margin: 10%;
+}

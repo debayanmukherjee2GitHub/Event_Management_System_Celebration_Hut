@@ -1,0 +1,19 @@
+div.background4 {
+	background: url(images/get-togetherThumb.JPG) no-repeat;
+    border: 2px solid white;
+    width: 700px;
+    height: 200px;
+    
+}
+
+div.transbox4 {
+    margin: 2px;
+    background-color: #ffffff;
+    border: 2px;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+
+div.transbox4 p {
+    margin: 10%;
+}

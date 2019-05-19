@@ -1,0 +1,11 @@
+.borders{
+	border-style: solid;
+	border-color: #2175bc;
+	border-radius: 25px;
+}
+
+.thumbnails{
+	float: left;
+	margin: 5px;
+}
+

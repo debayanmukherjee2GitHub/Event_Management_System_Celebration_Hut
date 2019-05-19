@@ -1,0 +1,19 @@
+div.background1 {
+	background: url(images/weddingThumb.JPG) no-repeat;
+    border: 0px solid white;
+    width: 700px;
+    height: 200px;
+    
+}
+
+div.transbox1 {
+    margin: 2px;
+    background-color: #ffffff;
+    border: 2px;
+    opacity: 0.8;
+    filter: alpha(opacity=50);
+}
+
+div.transbox1 p {
+    margin: 10%;
+}
